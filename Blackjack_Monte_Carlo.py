@@ -77,7 +77,6 @@ for trial in range(ntrials):
         playerhand.printhand()
         print("Dealer-->", dealeroutcome)
         dealerhand.printhand()
-
         
 print("=======================================================")
 print("Ntrials=", ntrials)
