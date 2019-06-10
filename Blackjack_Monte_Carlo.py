@@ -1,5 +1,5 @@
 # Blackjack Monte Carlo simulator program
-# By Prof. M. Colvin, UC Merced
+# By Prof. Mike Colvin, UC Merced
 # This software is in the Public Domain for all uses
 
 # This program implements a simple Blackjack Card game
